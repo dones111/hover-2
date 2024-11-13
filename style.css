@@ -1,0 +1,30 @@
+.page-contain{
+    display: flex;
+    justify-content: center;
+    
+}
+.data-card{
+    border: 0.5px solid gray ;
+    padding: 15px;
+}
+a:hover{
+    background-color: greenyellow;
+    font-size: 10px;
+    color: white;
+    transition: 0.3s;
+}
+.div2{
+    height: 250px;
+    width: 200px;
+    margin-left: 25px;
+}
+.div1{
+    height: 250px;
+    width: 200px;
+}
+.data-card:hover{
+    height: 300px;
+    width: 250px;
+    transition: 0.3s;
+
+}
